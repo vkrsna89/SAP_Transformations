@@ -1,6 +1,4 @@
-# SAP_Transformations
-Groovy Scripts to transform the JSON data to XML or CSV etc
-# SAP CPI Utility Scripts: Advanced JSON to XML Transformation
+# SAP CPI Utility Scripts: Groovy Scripts to transform the JSON data to XML or CSV etc
 
 Production-grade Groovy script pattern for SAP Cloud Integration (CPI) / SAP BTP Integration Suite.
 
