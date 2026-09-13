@@ -11,7 +11,7 @@ import groovy.xml.StreamingMarkupBuilder
  * - Safe handling of null values and empty arrays
  * - Stream-based processing to manage memory footprint efficiently
  * 
- * Author: Senior SAP CPI / Integration Engineer
+ * Author: Venkat M - Senior SAP CPI / Integration Engineer
  */
 Message processData(Message message) {
     try {
